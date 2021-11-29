@@ -11,18 +11,18 @@ DEFAULT_TEXT_OFFSET = 4
 # IMAGE_BRICK_1 = os.path.join(os.getcwd(), "./fish/assets/brick-2.png")
 # IMAGE_BRICK_2 = os.path.join(os.getcwd(), "./fish/assets/brick-3.png")
 # IMAGE_BRICK_3 = os.path.join(os.getcwd(), "./fish/assets/brick-5.png")
-IMAGE_SHELL = os.path.join(os.getcwd(), "./fish/assets/shell_box.png")
+IMAGE_SHELL = os.path.join(os.getcwd(), "/Users/sierradavenport/Documents/programing_with_classes/fish_simulator/extra/fishy/programming with classes fish/fish/assets/shell_box.png")
 IMAGE_OCEAN = os.path.join(os.getcwd(), "./fish/assets/ocean.png")
 IMAGE_FOOD = os.path.join(os.getcwd(), "./fish/assets/ball.png")
 
 
 
 # IMAGE_CLOUD = os.path.join(os.getcwd(), "./fish/assets/cloud.png")
-IMAGE_SHARK = os.path.join(os.getcwd(), "./fish/assets/shark_box.png")
+IMAGE_SHARK = os.path.join(os.getcwd(), "/Users/sierradavenport/Documents/programing_with_classes/fish_simulator/extra/fishy/programming with classes fish/fish/assets/shark_box.png")
 
 
 
-IMAGE_FISH = os.path.join(os.getcwd(), "./fish/assets/fish_box.png")
+IMAGE_FISH = os.path.join(os.getcwd(), "/Users/sierradavenport/Documents/programing_with_classes/fish_simulator/extra/fishy/programming with classes fish/fish/assets/fish_box.png")
 # IMAGE_PADDLE = os.path.join(os.getcwd(), "./fish/assets/paddle.png")
 IMAGE_BALL = os.path.join(os.getcwd(), "./fish/assets/ball.png")
 

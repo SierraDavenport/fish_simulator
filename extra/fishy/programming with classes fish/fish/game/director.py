@@ -1,5 +1,5 @@
 import os
-os.environ['RAYLIB_BIN_PATH'] = '.'
+# os.environ['RAYLIB_BIN_PATH'] = '.'
 
 import raylibpy
 from game import constants
